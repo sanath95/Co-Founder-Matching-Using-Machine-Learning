@@ -21,7 +21,7 @@ This project involves data collection, data processing, and building a classific
     - Customer Service Representative
   - **Sample 1 (Training Data)**: 
     - 5,000 samples from each job title are used, resulting in a total of 20,000 samples. This dataset is used to train and test the classification model.
-    ![training data](./assets/smaple1.png)
+    ![training data](./assets/sample1.png)
   - **Sample 2 (Co-Founder Database)**:
     - A separate, unseen dataset of 50 samples per job title (totaling 200 samples) is created. This is used to simulate a list of potential co-founders and their skills. Names are generated using Faker.
     ![co founder database](./assets/sample2.png)
@@ -43,10 +43,10 @@ This project involves data collection, data processing, and building a classific
 
     || precision | recall | f1-score | support|
     |---|---|---|---|---| 
-    |Customer Service Representative | 0.97 | 1.00 | 0.98 | 1183|
-    |First Year Tax Professional | 1.00 | 0.99 | 1.00 | 1252 |
-    |LEAD SALES ASSOCIATE-FT | 1.00 | 1.00 | 1.00 | 1268|
-    |Shift Manager | 1.00 | 0.98 | 0.99| 1297|
+    |Customer Service Representative |  0.97 | 1.00 | 0.99 | 1251 |
+    |First Year Tax Professional | 1.00 | 0.99 | 1.00 | 1233 |
+    |LEAD SALES ASSOCIATE-FT | 1.00 | 1.00 | 1.00 | 1242 |
+    |Shift Manager | 1.00 | 0.98 | 0.99 | 1274 |
 
   - Confusion Matrix
 
