@@ -20,10 +20,10 @@ This project involves data collection, data processing, and building a classific
     - Shift Manager
     - Customer Service Representative
   - **Sample 1 (Training Data)**: 
-    - 5,000 samples from each job title are used, resulting in a total of 20,000 samples. This dataset is used to train and test the classification model.
+    - 4,000 samples from each job title are used, resulting in a total of 16,000 samples. This dataset is used to train and test the classification model.
     ![training data](./assets/sample1.png)
   - **Sample 2 (Co-Founder Database)**:
-    - A separate, unseen dataset of 50 samples per job title (totaling 200 samples) is created. This is used to simulate a list of potential co-founders and their skills. Names are generated using Faker.
+    - A separate, unseen dataset of 1000 samples per job title (totaling 4000 samples) is created. This is used to simulate a list of potential co-founders and their skills. Names are generated using Faker.
     ![co founder database](./assets/sample2.png)
   
 - **Data Processing**:
