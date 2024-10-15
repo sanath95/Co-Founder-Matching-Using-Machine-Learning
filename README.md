@@ -43,10 +43,10 @@ This project involves data collection, data processing, and building a classific
 
     || precision | recall | f1-score | support|
     |---|---|---|---|---| 
-    |Customer Service Representative |  0.97 | 1.00 | 0.99 | 1251 |
-    |First Year Tax Professional | 1.00 | 0.99 | 1.00 | 1233 |
-    |LEAD SALES ASSOCIATE-FT | 1.00 | 1.00 | 1.00 | 1242 |
-    |Shift Manager | 1.00 | 0.98 | 0.99 | 1274 |
+    |Customer Service Representative |  0.96  | 1.00 | 0.98| 1021|
+    |First Year Tax Professional | 1.00 | 0.99 | 1.00 | 957|
+    |LEAD SALES ASSOCIATE-FT | 1.00 | 0.99 | 1.00  | 1006|
+    |Shift Manager | 1.00 | 0.98 | 0.99 | 1016|
 
   - Confusion Matrix
 
